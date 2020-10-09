@@ -8,7 +8,7 @@ Senza una comprensione profonda si rimane in superficie. Tuttavia in superficie 
 
 ### Notebooks
 
-Tutti i notebook sono scritti in Inglese (ma le registrazioni sono in Italiano)
+Tutti i notebook sono scritti in Inglese (ma le registrazioni sono in Italiano) e sono da seguire in ordine cronologico.
 
 * **Notebook 1:** La convoluzione ed il layer convoluzionale. Tutto da zero con NumPy.
 
@@ -26,9 +26,9 @@ Tutti i notebook sono scritti in Inglese (ma le registrazioni sono in Italiano)
 Per aprire un notebook queste sono le istruzioni:
 
 * Eseguite il login nel vostro google account;
-* aprire il notebook desiderato nella lista poco sopra (è possibile non si apra subito e compaia la scritta "Sorry, something went wrong. Reload?". Provate ad oltranza, ogni tanto capita);
-* Cliccare sul logo di Google Colaboratory e aspettare che il notebook si apra;
-* Una volta che il notebook è aperto andate su File -> Save a copy in Drive. Salverà così una copia sul vostro Drive personale.
+* aprite il notebook desiderato nella lista poco sopra (è possibile non si apra subito e compaia la scritta "Sorry, something went wrong. Reload?". Provate ad oltranza, ogni tanto capita. Altrimenti usate [NBviewer](https://nbviewer.jupyter.org/));
+* Cliccate sul logo di Google Colaboratory;
+* Una volta che il notebook è aperto andate su `File -> Save a copy in Drive`. Una copia del notebook sarà salvata sul vostro Google Drive personale.
 
 ### Bio e Contatti del Docente (Cristiano De Nobili [<img src="https://1.bp.blogspot.com/-Rwqcet_SHbk/T8_acMUmlmI/AAAAAAAAGgw/KD_fx__8Q4w/s1600/Twitter+bird.png" width="30">](https://twitter.com/denocris) )
 
