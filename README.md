@@ -36,6 +36,8 @@ Prima una laurea in Fisica Teorica delle Particelle, poi un Ph.D. in Fisica Stat
 
 <p align="center">
   
-Contatti: [<img src="https://1.bp.blogspot.com/-Rwqcet_SHbk/T8_acMUmlmI/AAAAAAAAGgw/KD_fx__8Q4w/s1600/Twitter+bird.png" width="50">](https://twitter.com/denocris)   [<img src="https://m2socialweb.it/wp-content/uploads/2019/03/social-media-marketing_gestione-linkedin.png" width="40">](https://www.linkedin.com/in/cristiano-de-nobili/)   [<img src="https://i.pinimg.com/originals/72/a3/d9/72a3d9408d41335f39e9f014dc35cf44.jpg" width="50">](https://www.instagram.com/denocris/?hl=it)
+Contacts: [<img src="https://1.bp.blogspot.com/-Rwqcet_SHbk/T8_acMUmlmI/AAAAAAAAGgw/KD_fx__8Q4w/s1600/Twitter+bird.png" width="50">](https://twitter.com/denocris)   [<img src="https://m2socialweb.it/wp-content/uploads/2019/03/social-media-marketing_gestione-linkedin.png" width="40">](https://www.linkedin.com/in/cristiano-de-nobili/)   [<img src="https://i.pinimg.com/originals/72/a3/d9/72a3d9408d41335f39e9f014dc35cf44.jpg" width="50">](https://www.instagram.com/denocris/?hl=it)
 
 </p>
+
+e-mail: cristiano.denobili@deeplearningitalia.com
